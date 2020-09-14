@@ -4,8 +4,6 @@
 #include <QString>
 #include <QTextStream>
 #include <QDir>
-using namespace std; //?????
-//constructor
 User::User()
 {
 
